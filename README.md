@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyhuang0413)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76A8D&background=5A6CFF00&center=true&vCenter=true&random=true&width=435&lines=Hi+there+I+am+zyhuang0413;A+back-end+development+engineer)](https://git.io/typing-svg)
 
 <!--
 **zyhuang0413/zyhuang0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
